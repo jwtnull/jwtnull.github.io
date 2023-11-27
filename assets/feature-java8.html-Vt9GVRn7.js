@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c as r}from"./app-J19QJkTS.js";const a={};function c(o,_){return t(),r("div")}const s=e(a,[["render",c],["__file","feature-java8.html.vue"]]);export{s as default};
