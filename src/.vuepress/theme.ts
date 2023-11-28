@@ -33,9 +33,10 @@ export default hopeTheme({
 
   blog: {
     description: "一个后端开发者",
+    //个人介绍页
     intro: "/intro.html",
     medias: {
-      GitHub: "https://example.com",
+      // GitHub: "https://example.com",
       // Gitlab: "https://example.com",
       // Gmail: "mailto:info@example.com",
       // Instagram: "https://example.com",

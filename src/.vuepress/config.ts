@@ -1,5 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+import plugins from './plugin.ts';
+
 
 export default defineUserConfig({
   base: "/",
@@ -9,7 +11,7 @@ export default defineUserConfig({
   description: "vuepress-theme-hope 的博客演示",
 
   theme,
-
+  plugins:plugins
   // Enable it with pwa
   // shouldPrefetch: false,
 });
