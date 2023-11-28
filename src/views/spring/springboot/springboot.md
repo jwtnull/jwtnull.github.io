@@ -1,14 +1,12 @@
 ---
-title: Java基础
 icon: pen-to-square
 date: 2023-11-28
 category:
-  - Java
+  - SpringBoot
 tag:
-  - Java
+  - SpringBoot
 ---
 
-# Java基础
+# SpringBoot
 
 计划中...
-

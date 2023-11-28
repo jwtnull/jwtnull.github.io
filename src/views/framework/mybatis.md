@@ -1,14 +1,12 @@
 ---
-title: Java基础
 icon: pen-to-square
 date: 2023-11-28
 category:
-  - Java
+  - Spring
 tag:
-  - Java
+  - Spring
 ---
 
-# Java基础
+# 框架相关
 
 计划中...
-

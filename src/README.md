@@ -3,7 +3,8 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: /logo.svg
+# heroImage: /logo.png
+bgImage: /th.webp
 heroText: 青菜
 heroFullScreen: true
 tagline: 慢慢来，就很快！

@@ -1,6 +1,6 @@
 import { defineUserConfig } from "vuepress";
-import theme from "./theme.js";
-import plugins from './plugin.ts';
+import theme from "./ts/theme.js";
+import plugins from './ts/plugin.ts';
 
 
 export default defineUserConfig({

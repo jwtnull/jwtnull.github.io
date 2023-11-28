@@ -1,5 +1,5 @@
 ---
-title: Java基础
+sticky: true
 icon: pen-to-square
 date: 2023-11-28
 category:
@@ -8,7 +8,6 @@ tag:
   - Java
 ---
 
-# Java基础
+# Java学习路线
 
 计划中...
-

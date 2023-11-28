@@ -34,30 +34,7 @@ export default hopeTheme({
   blog: {
     description: "一个后端开发者",
     //个人介绍页
-    intro: "/intro.html",
-    medias: {
-      // GitHub: "https://example.com",
-      // Gitlab: "https://example.com",
-      // Gmail: "mailto:info@example.com",
-      // Instagram: "https://example.com",
-      // Lark: "https://example.com",
-      // Lines: "https://example.com",
-      // Linkedin: "https://example.com",
-      // Pinterest: "https://example.com",
-      // Pocket: "https://example.com",
-      // QQ: "https://example.com",
-      // Qzone: "https://example.com",
-      // Reddit: "https://example.com",
-      // Rss: "https://example.com",
-      // Steam: "https://example.com",
-      // Twitter: "https://example.com",
-      // Wechat: "https://example.com",
-      // Weibo: "https://example.com",
-      // Whatsapp: "https://example.com",
-      // Youtube: "https://example.com",
-      // Zhihu: "https://example.com",
-      // MrHope: ["https://mister-hope.com", MR_HOPE_AVATAR],
-    },
+    intro: "/views/other/intro.html"
   },
 
   encrypt: {
