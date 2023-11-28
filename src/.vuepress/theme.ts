@@ -73,6 +73,7 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
+    git:true,
 
     // install @waline/client before enabling it
     // WARNING: This is a test server for demo only.
