@@ -5,7 +5,7 @@ icon: home
 title: 博客主页
 # heroImage: /logo.png
 bgImage: /th.webp
-heroText: 青菜
+heroText: 冰美式
 heroFullScreen: true
 tagline: 慢慢来，就很快！
 projects:
@@ -42,8 +42,8 @@ projects:
 footer: 自定义你的页脚文字
 ---
 
-这是一个博客主页的案例。
+<!-- 这是一个博客主页的案例。
 
 要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
 
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home/)。
+相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home/)。 -->
